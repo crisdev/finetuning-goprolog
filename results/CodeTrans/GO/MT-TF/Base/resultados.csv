@@ -1,0 +1,21 @@
+REFERENCE,MODEL,ROUGE1,ROUGE2,ROUGEL,BLEU1,BLEU2,BLEU3,BLEU4,COS
+snapshot returns a stable snapshot of the key-value entries.,snapshot returns a snapshot of the collection .,70.59,53.33,70.59,68.15,55.07,42.86,0.0,70.55
+compare two strings lexicographically.,compare returns -1 if a is less than b 0 if a is greater than b 0 if a is equal to b,7.41,0.0,7.41,4.35,0.0,0.0,0.0,42.5
+associate a template with html renderer.,sethtmltemplate sets html template,40.0,0.0,20.0,23.62,0.0,0.0,0.0,59.58
+check if a string contains only ascii characters.,isascii returns true if the string is encoded in ascii .,33.33,0.0,33.33,36.36,0.0,0.0,0.0,57.65
+sets up a webtest.server ready for testing all routes registered via httpserver.registerroutes(). optionally customize httpserver configuration by providing apitestserveroption options.,setupapitestserver creates a new http server for testing . t with routes registered with the router .,32.43,11.43,32.43,24.64,12.7,0.0,0.0,71.85
+returns the max between two numbers.,max returns the maximum value of two integers,57.14,16.67,42.86,50.0,26.73,0.0,0.0,82.83
+creates a dummy alert definition to be used by the tests.,createtestalertrule creates a new alert rule for the given org and interval .,34.78,9.52,34.78,38.46,17.9,0.0,0.0,54.7
+bind is a helper function for given interface object and returns a gin middleware.,bind returns a handlerfunc that binds the given interface to the given interface .,37.04,16.0,29.63,39.9,23.91,0.0,0.0,70.73
+sends bitcoin to the given address.,sendbitcoin sends a bitcoin transaction to the given address .,80.0,46.15,80.0,70.0,55.78,48.86,42.73,85.45
+will parse x-forwarded-for header and return the trusted client ip address.,validateheader checks if the header is a valid client header and returns the client ip .,35.71,15.38,35.71,37.5,22.36,0.0,0.0,66.4
+sets the label property of a new form.,setlabel sets the label of a form node .,75.0,42.86,75.0,77.78,54.01,34.67,0.0,77.62
+return the number of permutations of a given string.,permutations returns the number of permutations of the given string .,73.68,58.82,73.68,72.73,66.06,57.88,46.92,96.11
+generate random maze.,generatemaze generates a maze of given width and height .,16.67,0.0,16.67,20.0,0.0,0.0,0.0,74.37
+compares up to n elements of two arrays and returns the number of elements in common between the two arrays.,arrayintersection returns the number of elements in arr1 that are in arr2 and n > = len(arr1 ),44.44,29.41,33.33,38.05,30.86,27.2,24.11,56.36
+contains reports whether s contains x.,contains returns true if x is in s .,42.86,0.0,28.57,44.44,0.0,0.0,0.0,78.97
+create nft token.,createnft creates a new nft,25.0,0.0,25.0,20.0,0.0,0.0,0.0,56.38
+"provides a slice of bytes owned by the segment, to reduce extra copying of memory.",alloc allocates numbytes bytes in the segment .,27.27,10.0,27.27,16.23,8.68,0.0,0.0,62.66
+send the error response to the client.,errorresponse writes a 500 error response to the client .,62.5,57.14,62.5,60.0,57.74,55.03,51.7,69.73
+returns the last handler in the chain. i.e. the last handler is the main one.,last returns the last handlerfunc in the handlerschain or nil,46.15,25.0,38.46,22.07,16.45,10.76,0.0,76.62
+calculate the quartile of a list of numbers. the quartile is the middle value of the set of numbers.,quartile returns the quartile of the numbers in the slice .,48.28,22.22,41.38,29.3,18.82,11.66,0.0,68.47

@@ -1,0 +1,21 @@
+REFERENCE,MODEL,ROUGE1,ROUGE2,ROUGEL,BLEU1,BLEU2,BLEU3,BLEU4,COS
+snapshot returns a stable snapshot of the key-value entries.,snapshot returns the current snapshot or a new one if there is none .,43.48,9.52,26.09,42.86,18.16,0.0,0.0,73.53
+compare two strings lexicographically.,compare returns - 1 0 or + 1 for strings with the same length .,25.0,0.0,25.0,20.0,0.0,0.0,0.0,62.04
+associate a template with html renderer.,sethtmltemplate sets the html template used by the engine .,26.67,0.0,13.33,30.0,0.0,0.0,0.0,57.44
+check if a string contains only ascii characters.,isascii returns true if the string contains only ascii characters .,66.67,50.0,66.67,63.64,56.41,52.1,47.99,66.14
+sets up a webtest.server ready for testing all routes registered via httpserver.registerroutes(). optionally customize httpserver configuration by providing apitestserveroption options.,setupapitestserver creates a new api server .,14.29,0.0,14.29,2.13,0.0,0.0,0.0,38.42
+returns the max between two numbers.,max returns the largest integer in two .,61.54,18.18,46.15,62.5,29.88,0.0,0.0,82.3
+creates a dummy alert definition to be used by the tests.,createtestalertrule creates a new test alert rule,33.33,12.5,33.33,20.98,13.08,0.0,0.0,54.76
+bind is a helper function for given interface object and returns a gin middleware.,bind returns a handlerfunc that binds the given value to the given struct .,29.63,8.0,22.22,33.25,15.43,0.0,0.0,47.52
+sends bitcoin to the given address.,sendbitcoin sends a bitcoin to the given address .,85.71,66.67,85.71,77.78,69.72,65.25,61.05,88.36
+will parse x-forwarded-for header and return the trusted client ip address.,validateheader checks if the given header is a valid ip address .,33.33,9.09,25.0,41.67,27.52,19.64,0.0,54.08
+sets the label property of a new form.,setlabel sets the label attribute on the form if it doesn t exist .,38.1,21.05,38.1,35.71,23.44,16.61,0.0,81.18
+return the number of permutations of a given string.,permutations returns the number of permutations of the given string .,73.68,58.82,73.68,72.73,66.06,57.88,46.92,96.11
+generate random maze.,generatemaze generates a maze of the given dimensions .,18.18,0.0,18.18,22.22,0.0,0.0,0.0,73.25
+compares up to n elements of two arrays and returns the number of elements in common between the two arrays.,arrayintersection returns the number of elements that are present in arr1 and arr2 . if n is greater than arr1 or arr2 is smaller than arr1 it returns the length of arr1 .,39.22,16.33,27.45,33.33,20.41,15.92,12.8,57.77
+contains reports whether s contains x.,contains returns true if the node is in the slice .,12.5,0.0,12.5,18.18,0.0,0.0,0.0,51.21
+create nft token.,createnft creates a new blockchain nft .,22.22,0.0,22.22,28.57,0.0,0.0,0.0,59.58
+"provides a slice of bytes owned by the segment, to reduce extra copying of memory.",alloc returns a slice of bytes that can be used to store numbytes in the underlying buffer .,37.5,20.0,31.25,38.89,26.2,20.47,15.46,50.62
+send the error response to the client.,errorresponse writes an error to the response writer .,53.33,15.38,40.0,55.56,26.35,0.0,0.0,60.38
+returns the last handler in the chain. i.e. the last handler is the main one.,last returns the last handler in the chain or nil .,61.54,50.0,53.85,36.1,30.91,28.61,26.81,85.78
+calculate the quartile of a list of numbers. the quartile is the middle value of the set of numbers.,quartile returns the quartile of the given slice .,37.04,24.0,37.04,17.57,13.18,8.68,0.0,65.67

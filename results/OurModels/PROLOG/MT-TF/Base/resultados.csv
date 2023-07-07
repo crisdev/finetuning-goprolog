@@ -1,0 +1,21 @@
+REFERENCE,MODEL,ROUGE1,ROUGE2,ROUGEL,BLEU1,BLEU2,BLEU3,BLEU4,COS
+gets the list of records for all files matching the specified base name.,returns the list of all versions of a file.,36.36,20.0,36.36,33.52,22.34,16.11,0.0,58.05
+reverses a list of any length.,reverses a list of numbers.,72.73,66.67,72.73,70.54,59.86,53.33,45.48,82.65
+returns the factorial of a given number.,is the factorial of a number.,76.92,54.55,76.92,74.3,65.53,53.0,42.38,85.25
+transforms the body of a clause into a list of goals.,extracts a list of elements from a list of expressions.,47.62,21.05,38.1,49.81,30.16,20.97,0.0,37.63
+succeeds if t is a valid binary tree with integer keys.,returns the bin tree of a binary tree.,31.58,11.76,31.58,31.85,16.89,0.0,0.0,54.86
+a set of witnesses have inconsistent testimony if two pieces of testimony belonging to two different witnesses are inconsistent.,is true if the testimony is inconsistent.,23.08,0.0,23.08,11.16,5.96,0.0,0.0,72.05
+"valuates the polynomial given the a,b,c,x values.",computes the quadratic of a given quadratic equation,33.33,0.0,22.22,17.71,0.0,0.0,0.0,36.97
+takes a list of key-datum pairs (such as keysort could be used to sort) and forms them into a heap.,"is true if the list is empty, and the list is not empty.",11.76,0.0,11.76,11.73,0.0,0.0,0.0,13.62
+obtains a socket connection from this node.,"get_addr_stream(a(hostname, port), stream).",14.29,0.0,14.29,12.5,0.0,0.0,0.0,36.66
+succeeds if a is the area of shape s.,computes the area of a circle.,53.33,30.77,40.0,46.53,31.79,23.61,0.0,48.9
+is true when rest contains the elements of set1 except for set1.,deletes a list of elements from the list.,30.0,0.0,10.0,28.5,0.0,0.0,0.0,25.0
+adds a new element with key key and value to the tree t0 creating a new red-black tree tn. duplicated elements are not allowed.,can be a tree with a key and a value.,40.0,6.06,28.57,18.6,6.9,0.0,0.0,56.91
+gets the list of records for all files whose modification time is within the given range.,is a valid date range?,19.05,0.0,19.05,5.33,0.0,0.0,0.0,18.45
+is true if and only if filterlist is a list containing only the elements of list that satisfy goal.,"include(_, []). include(_, []). include(_, []). include(_, []). include(_, []). include(_, []). include(_, []).include(_, []).include(_, []).include(_, []).include(_, []).include(_, []).include(_, []).include(_, []).include(_, []).include(_, []).include",0.0,0.0,0.0,0.78,0.0,0.0,0.0,11.76
+"succeeds if the item represents a valid circle x,y represents the centrepoint of a circle on an x,y plane r represents the radius of the circle.",summarizes a circle with the given coordinates.,17.14,6.06,17.14,2.82,1.51,0.0,0.0,53.47
+reads a word from the user then lists all anagrams.,reads a list of a word and a period and prints the list of anagrams in a single line.,34.48,14.81,34.48,30.0,17.77,0.0,0.0,79.37
+generates all subsets of the given set (once each).,generate a subset of a set.,26.67,0.0,26.67,20.98,0.0,0.0,0.0,87.14
+"transforms a list, possibly holding lists as elements into a flat list by replacing each list with its elements recursively.",flattens a list of lists.,24.0,8.7,24.0,4.63,2.54,0.0,0.0,75.58
+"is true when the two arguments represent the same set. since they are assumed to be ordered representations, they must be identical.",is seteq?,8.33,0.0,8.33,0.02,0.0,0.0,0.0,15.71
+delete an element from a list by just not including it when it's found.,deletes a list of elements from a list.,26.09,19.05,26.09,22.82,17.11,12.9,0.0,82.62

@@ -1,0 +1,20 @@
+Returns a list of all file versions for the given file.
+reverses the order of the elements in the list.
+factorial of X.
+returns a list of the body elements of a list.
+Returns the bin tree of a given integer value.
+Computes the inconsistent testimony of X.
+Computes the quadratic function of the given numbers.
+converts a list into a heap.
+Returns the current stream for the given connection.
+Computes the area of a circle.
+is true if the elements are in the list.
+inserts a new node into the tree.
+is a valid date range between the start and end.
+returns true if the subset of the elements of the given set are true.
+Computes a circle from the coordinates.
+Enter a list of anagrams separated by a period.
+subset(Subset, Set).
+Flattens a list of lists.
+Returns true if Set1 is equal to Set2.
+deletes the elements in the list of linked elements.

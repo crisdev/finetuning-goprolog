@@ -1,0 +1,20 @@
+Snapshot returns a snapshot of the latest snapshot . This is equivalent to calling SnapshotLocked with the mutex locked .
+compare returns an integer indicating whether a is less than b or 1 if a is greater than b .
+SetHTMLTemplate sets the template to be rendered
+isASCII returns true if the string contains only ASCII characters .
+SetupAPITestServer creates a new APITestServer .
+max returns the maximal value of two integers
+CreateTestAlertRule creates a test alert rule
+Bind returns a new bind handler for the given value . Bind can be a pointer to a struct .
+sendBitcoin sends a bitcoin transaction to the given address .
+validateHeader returns the client IP from the given header if it is a valid RFC 3986 one or the empty string if it is not a trusted proxy .
+setLabel sets the given label as the default value of the form node .
+permutations returns the number of permutations of s .
+generateMaze generates a maze of the given width and height .
+arrayIntersection returns the number of elements in arr1 that are in arr2 with length n .
+contains returns true if the slice contains the node x .
+createNFT creates a new block transaction for the given name and symbol .
+Alloc allocates numBytes bytes from the segment .
+errorResponse writes the error to the response writer with http . StatusInternalServerError .
+Last returns the last handler in the chain
+quartile returns the quartile value of the given slice of float64s .

@@ -1,0 +1,8 @@
+Rouge results:
+{'rouge1': 0.4071063602253029, 'rouge2': 0.18733690316391555, 'rougeL': 0.355054558068002, 'rougeLsum': 0.35432039850837804}
+Bleu results:
+{'bleu': 0.4351464435146444, 'precisions': [0.4351464435146444], 'brevity_penalty': 1.0, 'length_ratio': 1.0257510729613735, 'translation_length': 239, 'reference_length': 233}
+{'bleu': 0.28542209537829916, 'precisions': [0.4351464435146444, 0.1872146118721461], 'brevity_penalty': 1.0, 'length_ratio': 1.0257510729613735, 'translation_length': 239, 'reference_length': 233}
+{'bleu': 0.21711377112846775, 'precisions': [0.4351464435146444, 0.1872146118721461, 0.12562814070351758], 'brevity_penalty': 1.0, 'length_ratio': 1.0257510729613735, 'translation_length': 239, 'reference_length': 233}
+{'bleu': 0.17112958026457056, 'precisions': [0.4351464435146444, 0.1872146118721461, 0.12562814070351758, 0.08379888268156424], 'brevity_penalty': 1.0, 'length_ratio': 1.0257510729613735, 'translation_length': 239, 'reference_length': 233}
+Cosine quartiles: [54.2, 61.2, 79.3]

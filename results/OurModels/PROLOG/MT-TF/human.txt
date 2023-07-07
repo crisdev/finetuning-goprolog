@@ -1,0 +1,20 @@
+gets the list of records for all files matching the specified base name.
+reverses a list of any length.
+returns the factorial of a given number.
+transforms the body of a clause into a list of goals.
+succeeds if T is a valid binary tree with integer keys.
+a set of witnesses have inconsistent testimony if two pieces of testimony belonging to two different witnesses are inconsistent.
+valuates the polynomial given the A,B,C,X values.
+takes a list of Key-Datum pairs (such as keysort could be used to sort) and forms them into a heap.
+obtains a socket connection from this node.
+succeeds if A is the area of shape S.
+is true when Rest contains the elements of Set1 except for Set1.
+adds a new element with key Key and Value to the tree T0 creating a new red-black tree TN. Duplicated elements are not allowed.
+gets the list of records for all files whose modification time is within the given range.
+is true if and only if FilterList is a list containing only the elements of List that satisfy Goal.
+succeeds if the item represents a valid circle x,y represents the centrepoint of a circle on an x,y plane r represents the radius of the circle.
+reads a word from the user then lists all anagrams.
+generates all subsets of the given set (once each).
+transforms a list, possibly holding lists as elements into a flat list by replacing each list with its elements recursively.
+is true when the two arguments represent the same set. Since they are assumed to be ordered representations, they must be identical.
+delete an element from a list by just not including it when it's found.

@@ -1,0 +1,20 @@
+Snapshot returns a snapshot of the current iterator state.
+compare returns an integer indicating whether a is less than b or 0 if a is less than b.
+SetHTMLTemplate sets the HTML renderer for the engine.
+isASCII returns true if the string is a valid unicode string that is less than the maximum ASCII characters.
+SetupAPITestServer returns a webtest.Server that serves APIs and tests.
+Returns the maximum of two integer integers
+CreateTestAlertRule creates a test alert rule for the given testing.
+Bind a value to a struct.
+sendBitcoin is used to send a bitcoin address to a blockcypher server.
+Returns the client IP from the header if it s a trusted proxy or a non - proxy IP from the header if it s a proxy IP or a IP from the header if it s a trusted proxy IP or a IP from the header if it s a proxy IP or a IP from the header if it s a trusted proxy IP or a IP from the header if it s a proxy IP or a IP from the header if it s a trusted proxy IP or a IP from the header if it s a proxy IP or a IP from the IP address of the proxy
+setLabel sets the label of the form node.
+Returns the number of possible permutations of the string.
+Generate a maze of the given width and height.
+arrayIntersection returns the number of intersections between arr1 and arr2.
+Contains returns true if the given node is in the list of nodes.
+createNFT creates a NFT structure for the given name symbol and supply number.
+Alloc returns the buffer size of the segment.
+errorResponse writes a 500 error to the response writer and writes it to the response writer.
+Last returns the last HandlerFunc in the chain.
+quartile returns the number of the given numbers in the slice of numbers.

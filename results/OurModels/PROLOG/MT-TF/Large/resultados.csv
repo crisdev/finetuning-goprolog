@@ -1,0 +1,21 @@
+REFERENCE,MODEL,ROUGE1,ROUGE2,ROUGEL,BLEU1,BLEU2,BLEU3,BLEU4,COS
+gets the list of records for all files matching the specified base name.,returns the list of file versions of a file.,27.27,20.0,27.27,26.81,19.99,14.96,0.0,57.95
+reverses a list of any length.,reverses the order of the elements in the array.,26.67,0.0,26.67,30.0,0.0,0.0,0.0,61.71
+returns the factorial of a given number.,factorial of a number.,72.73,44.44,72.73,54.88,47.53,34.57,0.0,93.6
+transforms the body of a clause into a list of goals.,convert a list of expressions to a list of expressions.,47.62,21.05,38.1,49.81,30.16,20.97,0.0,45.84
+succeeds if t is a valid binary tree with integer keys.,returns a binary tree representing the k-th binary tree.,28.57,10.53,28.57,32.75,17.26,0.0,0.0,60.03
+a set of witnesses have inconsistent testimony if two pieces of testimony belonging to two different witnesses are inconsistent.,returns true if w is inconsistent with w.,14.81,0.0,14.81,9.82,0.0,0.0,0.0,36.75
+"valuates the polynomial given the a,b,c,x values.",evaluates a quadratic equation of the form x^a + b^x + c.,45.45,10.0,36.36,35.29,0.0,0.0,0.0,54.07
+takes a list of key-datum pairs (such as keysort could be used to sort) and forms them into a heap.,"list_to_heap(list, 0, t, heap) :- list_to_heap(list, 0, t, heap) :- list_to_heap(list, 0, t, heap) :- list_to_heap(list, 0, t, heap) :- list_to_heap(list, 0, t, heap) :- list_to_heap(list, 0, t, heap).",9.52,0.0,9.52,6.32,0.0,0.0,0.0,50.25
+obtains a socket connection from this node.,get_addr_stream returns the address stream of a hostname.,11.76,0.0,11.76,15.38,0.0,0.0,0.0,29.49
+succeeds if a is the area of shape s.,returns the area of a circle.,53.33,30.77,40.0,46.53,31.79,23.61,0.0,55.34
+is true when rest contains the elements of set1 except for set1.,removes elements from an ordered list.,11.11,0.0,11.11,12.12,0.0,0.0,0.0,26.47
+adds a new element with key key and value to the tree t0 creating a new red-black tree tn. duplicated elements are not allowed.,inserts a new node into the tree.,25.0,13.33,25.0,6.59,4.45,0.0,0.0,64.14
+gets the list of records for all files whose modification time is within the given range.,returns a valid file date range.,9.09,0.0,9.09,6.85,5.23,0.0,0.0,50.79
+is true if and only if filterlist is a list containing only the elements of list that satisfy goal.,includes all elements of a list.,32.0,17.39,24.0,11.15,7.62,0.0,0.0,44.16
+"succeeds if the item represents a valid circle x,y represents the centrepoint of a circle on an x,y plane r represents the radius of the circle.",returns the coordinates of a circle of radius r.,37.84,11.43,27.03,9.8,5.16,3.44,0.0,59.1
+reads a word from the user then lists all anagrams.,list all the analog words in the alphabet,22.22,0.0,11.11,17.18,0.0,0.0,0.0,47.04
+generates all subsets of the given set (once each).,returns true if the set subset is valid.,23.53,0.0,23.53,23.88,0.0,0.0,0.0,50.65
+"transforms a list, possibly holding lists as elements into a flat list by replacing each list with its elements recursively.",flattens a list.,17.39,9.52,17.39,0.83,0.56,0.0,0.0,71.8
+"is true when the two arguments represent the same set. since they are assumed to be ordered representations, they must be identical.",is true if set1 == set2.,14.81,8.0,14.81,4.48,2.76,0.0,0.0,46.29
+delete an element from a list by just not including it when it's found.,deletes the list of elements from the list.,17.39,0.0,17.39,17.11,0.0,0.0,0.0,74.64

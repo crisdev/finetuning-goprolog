@@ -1,0 +1,20 @@
+Snapshot returns a snapshot of the latest snapshot.
+compare returns an integer indicating whether a is less than b or 1 if a is greater than b.
+SetHTMLTemplate sets the HTML template engine.
+Returns true if all characters in s are more than unicode.MaxASCII.
+SetupAPITestServer creates a new API test server.
+Returns the maximum of two integers.
+CreateTestAlertRule creates a test alert rule.
+Bind returns a new Bind middleware for the given value.
+Sends a bitcoin transaction to the given address.
+Returns the client IP of the header.
+setLabel sets the given label as the default value of the form.
+Returns the number of permutations of the string s.
+generateMaze generates a maze of the given width and height.
+Returns the number of elements in the given array.
+Returns true if the slice contains the given node.
+Create a new block consensus transaction.
+Alloc allocates numBytes bytes from the segment buffer.
+Writes the error to the response.
+Last returns the last handler in the chain.
+Returns the nearest value in the given slice.

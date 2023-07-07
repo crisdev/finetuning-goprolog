@@ -1,0 +1,21 @@
+REFERENCE,MODEL,ROUGE1,ROUGE2,ROUGEL,BLEU1,BLEU2,BLEU3,BLEU4,COS
+snapshot returns a stable snapshot of the key-value entries.,returns a stable snapshot of the current collection.,66.67,62.5,66.67,69.6,62.39,58.39,54.63,71.23
+compare two strings lexicographically.,compare two strings.,85.71,80.0,85.71,77.88,63.59,54.0,0.0,89.16
+associate a template with html renderer.,sets the html template to be used.,30.77,0.0,15.38,37.5,0.0,0.0,0.0,54.64
+check if a string contains only ascii characters.,returns true if all characters in the string are ascii.,44.44,0.0,33.33,45.45,0.0,0.0,0.0,87.02
+sets up a webtest.server ready for testing all routes registered via httpserver.registerroutes(). optionally customize httpserver configuration by providing apitestserveroption options.,setupapitestserver returns a mock apitestserver configured with the given options.,12.5,0.0,12.5,5.81,3.52,0.0,0.0,55.86
+returns the max between two numbers.,returns the maximal value of two integers.,46.15,18.18,46.15,50.0,26.73,0.0,0.0,73.56
+creates a dummy alert definition to be used by the tests.,createtestalertrule creates a mock alert rule.,35.29,13.33,35.29,27.97,15.11,0.0,0.0,59.16
+bind is a helper function for given interface object and returns a gin middleware.,bind takes a value and returns a handlerfunc which will initialize the value with the correct interface for the handler.,41.18,12.5,29.41,38.1,19.52,12.61,0.0,58.39
+sends bitcoin to the given address.,send bitcoin to the given address.,83.33,80.0,83.33,85.71,84.52,82.98,80.91,93.88
+will parse x-forwarded-for header and return the trusted client ip address.,parses a http2 header value into an ip address string. the header string may contain a client ip address. the returned value will be false if the header is not valid.,27.27,9.52,22.73,20.59,13.68,10.54,7.84,59.04
+sets the label property of a new form.,sets the given label on the given form node.,47.06,13.33,47.06,50.0,23.57,0.0,0.0,76.86
+return the number of permutations of a given string.,returns the number of permutations of the given string.,77.78,62.5,77.78,80.0,73.03,64.37,52.54,98.94
+generate random maze.,generates a maze of the given size.,20.0,0.0,20.0,25.0,0.0,0.0,0.0,79.92
+compares up to n elements of two arrays and returns the number of elements in common between the two arrays.,returns the count of elements in arr1 that are in arr2.,32.26,20.69,32.26,23.62,17.44,11.29,0.0,56.61
+contains reports whether s contains x.,contains returns true if x is in the list s.,37.5,0.0,25.0,36.36,0.0,0.0,0.0,67.42
+create nft token.,create new nft.,66.67,0.0,66.67,75.0,0.0,0.0,0.0,73.92
+"provides a slice of bytes owned by the segment, to reduce extra copying of memory.",alloc bytes from the buffer. if the buffer is too large erralloctoolarge is returned.,13.79,0.0,13.79,17.61,0.0,0.0,0.0,46.6
+send the error response to the client.,write an error response to the client.,71.43,66.67,71.43,75.0,73.19,70.95,68.04,94.63
+returns the last handler in the chain. i.e. the last handler is the main one.,last() returns the last handler in the chain.,66.67,54.55,58.33,36.1,33.39,32.01,30.84,86.95
+calculate the quartile of a list of numbers. the quartile is the middle value of the set of numbers.,returns the quartile value of a slice of float64s.,42.86,23.08,35.71,23.3,16.08,0.0,0.0,51.93

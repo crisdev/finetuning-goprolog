@@ -1,0 +1,20 @@
+Returns the list of file versions of the file or directory.
+Reverses the reverse of the given array.
+Computes the factorial of a given number of numbers.
+Recursively lists the body of the list of body elements.
+binTree(nil).
+Correctly test the testimony of the two members of the same class.
+Evaluates a quad of the equation A^B^X^R^X^R^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^X^
+Heap is a list of heaps.
+Attempt to connect to a socket on a given host.
+Returns the area of the area of the triangle.
+Compares two elements of the array with the elements of the array.
+Inserts a new node into the tree.
+Implement the dateRange method of the DatePicker interface
+Includes the given P in the list of expressions.
+Computes the circle of the given point.
+Recursively writes the input Anagrams to the output.
+Subsets are the same as the subsets of the set in the set.
+Flattens the given list of elements into a single list of elements.
+Compare two sets.
+Deletes the element from the list.

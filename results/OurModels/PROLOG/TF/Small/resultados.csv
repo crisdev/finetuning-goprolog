@@ -1,0 +1,21 @@
+REFERENCE,MODEL,ROUGE1,ROUGE2,ROUGEL,BLEU1,BLEU2,BLEU3,BLEU4,COS
+gets the list of records for all files matching the specified base name.,returns the fileversions of the given file name.,38.1,0.0,38.1,31.88,15.12,0.0,0.0,54.81
+reverses a list of any length.,reverses the array of elements in the array z.,26.67,0.0,26.67,30.0,0.0,0.0,0.0,59.21
+returns the factorial of a given number.,calculates the factorial of the given number.,71.43,50.0,71.43,75.0,65.47,52.28,0.0,92.75
+transforms the body of a clause into a list of goals.,convert the first and last to list of the first and last items in the list.,22.22,8.0,22.22,23.53,12.13,0.0,0.0,24.18
+succeeds if t is a valid binary tree with integer keys.,"returns the bintree(k,l), bintree(r), bintree(l), bintree(l), bintree(l), bintree(r), and bintree(r), bintree(l), bintree(l), bintree(l), bintree(l), bintree(l), and bintree(r), and bintree(l), bintree(l), and bintree(r)).",0.0,0.0,0.0,1.12,0.0,0.0,0.0,41.4
+a set of witnesses have inconsistent testimony if two pieces of testimony belonging to two different witnesses are inconsistent.,the testimony of the given data is inconsistent with the given data.,19.35,0.0,19.35,17.96,0.0,0.0,0.0,63.45
+"valuates the polynomial given the a,b,c,x values.",evaluates a quad with the given parameters,35.29,0.0,23.53,15.77,0.0,0.0,0.0,32.89
+takes a list of key-datum pairs (such as keysort could be used to sort) and forms them into a heap.,heap is the list of all elements in the list.,19.35,6.9,12.9,12.21,6.41,0.0,0.0,65.97
+obtains a socket connection from this node.,get the address stream for a given hostname and port.,11.76,0.0,11.76,18.18,0.0,0.0,0.0,45.0
+succeeds if a is the area of shape s.,calculates the area of the area.,40.0,30.77,40.0,37.23,28.43,21.92,0.0,53.18
+is true when rest contains the elements of set1 except for set1.,returns the ord_del_element of the first element in the second element of the first element in the second element.,12.12,0.0,12.12,12.5,0.0,0.0,0.0,23.88
+adds a new element with key key and value to the tree t0 creating a new red-black tree tn. duplicated elements are not allowed.,insert a new node in the tree,25.0,13.33,25.0,3.79,2.89,0.0,0.0,66.51
+gets the list of records for all files whose modification time is within the given range.,returns the date range of the given list of items in the list of items.,38.71,20.69,25.81,41.1,27.79,17.3,0.0,44.69
+is true if and only if filterlist is a list containing only the elements of list that satisfy goal.,include the given list of results,24.0,0.0,16.0,4.85,0.0,0.0,0.0,21.73
+"succeeds if the item represents a valid circle x,y represents the centrepoint of a circle on an x,y plane r represents the radius of the circle.",radius of the circle is 0.,23.53,18.75,23.53,2.32,1.94,1.7,1.41,51.95
+reads a word from the user then lists all anagrams.,this method is used to enter a word followed by a period.,18.18,10.0,18.18,23.08,13.87,0.0,0.0,32.19
+generates all subsets of the given set (once each).,subset is a set of sets.,26.67,0.0,13.33,20.98,0.0,0.0,0.0,60.06
+"transforms a list, possibly holding lists as elements into a flat list by replacing each list with its elements recursively.",flattens the input array into a single array of arrays of values.,12.5,6.67,12.5,11.55,6.94,0.0,0.0,42.53
+"is true when the two arguments represent the same set. since they are assumed to be ordered representations, they must be identical.",eq is the case - insensitive order of the set1 == set2,18.75,0.0,18.75,9.17,0.0,0.0,0.0,48.7
+delete an element from a list by just not including it when it's found.,deletes the element and its list.,19.05,0.0,19.05,13.67,0.0,0.0,0.0,73.43

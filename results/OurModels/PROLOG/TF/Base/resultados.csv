@@ -1,0 +1,21 @@
+REFERENCE,MODEL,ROUGE1,ROUGE2,ROUGEL,BLEU1,BLEU2,BLEU3,BLEU4,COS
+gets the list of records for all files matching the specified base name.,returns a list of all file versions for the given file.,41.67,9.09,33.33,42.32,18.05,0.0,0.0,58.25
+reverses a list of any length.,reverses the order of the elements in the list.,40.0,0.0,26.67,40.0,0.0,0.0,0.0,75.25
+returns the factorial of a given number.,factorial of x.,40.0,25.0,40.0,27.59,18.39,0.0,0.0,76.79
+transforms the body of a clause into a list of goals.,returns a list of the body elements of a list.,66.67,42.11,47.62,66.41,49.25,29.09,0.0,36.8
+succeeds if t is a valid binary tree with integer keys.,returns the bin tree of a given integer value.,30.0,0.0,20.0,32.75,0.0,0.0,0.0,54.01
+a set of witnesses have inconsistent testimony if two pieces of testimony belonging to two different witnesses are inconsistent.,computes the inconsistent testimony of x.,24.0,8.7,24.0,8.92,4.82,0.0,0.0,54.92
+"valuates the polynomial given the a,b,c,x values.",computes the quadratic function of the given numbers.,33.33,0.0,22.22,25.5,0.0,0.0,0.0,37.11
+takes a list of key-datum pairs (such as keysort could be used to sort) and forms them into a heap.,converts a list into a heap.,37.04,24.0,37.04,8.72,7.69,6.22,4.97,67.68
+obtains a socket connection from this node.,returns the current stream for the given connection.,13.33,0.0,13.33,22.22,0.0,0.0,0.0,51.81
+succeeds if a is the area of shape s.,computes the area of a circle.,53.33,30.77,40.0,46.53,31.79,23.61,0.0,48.9
+is true when rest contains the elements of set1 except for set1.,is true if the elements are in the list.,38.1,21.05,38.1,37.04,24.69,0.0,0.0,50.87
+adds a new element with key key and value to the tree t0 creating a new red-black tree tn. duplicated elements are not allowed.,inserts a new node into the tree.,25.0,13.33,25.0,6.59,4.45,0.0,0.0,64.14
+gets the list of records for all files whose modification time is within the given range.,is a valid date range between the start and end.,23.08,0.0,15.38,21.08,0.0,0.0,0.0,19.98
+is true if and only if filterlist is a list containing only the elements of list that satisfy goal.,returns true if the subset of the elements of the given set are true.,30.3,19.35,30.3,28.66,20.98,13.44,0.0,42.2
+"succeeds if the item represents a valid circle x,y represents the centrepoint of a circle on an x,y plane r represents the radius of the circle.",computes a circle from the coordinates.,17.65,6.25,17.65,1.85,1.0,0.0,0.0,58.13
+reads a word from the user then lists all anagrams.,enter a list of anagrams separated by a period.,21.05,0.0,21.05,27.15,0.0,0.0,0.0,70.12
+generates all subsets of the given set (once each).,"subset(subset, set).",16.67,0.0,16.67,27.97,15.11,0.0,0.0,63.56
+"transforms a list, possibly holding lists as elements into a flat list by replacing each list with its elements recursively.",flattens a list of lists.,24.0,8.7,24.0,4.63,2.54,0.0,0.0,75.58
+"is true when the two arguments represent the same set. since they are assumed to be ordered representations, they must be identical.",returns true if set1 is equal to set2.,20.0,0.0,13.33,7.51,0.0,0.0,0.0,33.79
+delete an element from a list by just not including it when it's found.,deletes the elements in the list of linked elements.,8.33,0.0,8.33,12.13,0.0,0.0,0.0,61.7

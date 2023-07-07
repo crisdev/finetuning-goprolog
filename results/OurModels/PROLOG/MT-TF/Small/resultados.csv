@@ -1,0 +1,21 @@
+REFERENCE,MODEL,ROUGE1,ROUGE2,ROUGEL,BLEU1,BLEU2,BLEU3,BLEU4,COS
+gets the list of records for all files matching the specified base name.,returns the list of file versions of the file or directory.,33.33,18.18,33.33,35.27,23.3,16.62,0.0,59.3
+reverses a list of any length.,reverses the reverse of the given array.,30.77,0.0,30.77,37.5,0.0,0.0,0.0,63.14
+returns the factorial of a given number.,computes the factorial of a given number of numbers.,75.0,71.43,75.0,70.0,62.36,57.93,53.73,89.75
+transforms the body of a clause into a list of goals.,recursively lists the body of the list of body elements.,47.62,31.58,47.62,49.81,36.94,24.01,0.0,28.27
+succeeds if t is a valid binary tree with integer keys.,bintree(nil).,0.0,0.0,0.0,4.93,0.0,0.0,0.0,35.59
+a set of witnesses have inconsistent testimony if two pieces of testimony belonging to two different witnesses are inconsistent.,correctly test the testimony of the two members of the same class.,25.81,0.0,19.35,22.45,0.0,0.0,0.0,57.27
+"valuates the polynomial given the a,b,c,x values.",evaluates a quad of the equation a^b^x^r^x^r^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^x^,11.59,2.99,11.59,3.57,0.0,0.0,0.0,32.84
+takes a list of key-datum pairs (such as keysort could be used to sort) and forms them into a heap.,heap is a list of heaps.,29.63,16.0,22.22,7.26,4.96,3.69,0.0,64.8
+obtains a socket connection from this node.,attempt to connect to a socket on a given host.,23.53,13.33,23.53,27.27,16.51,0.0,0.0,66.58
+succeeds if a is the area of shape s.,returns the area of the area of the triangle.,33.33,25.0,33.33,40.0,29.81,22.31,0.0,50.82
+is true when rest contains the elements of set1 except for set1.,compares two elements of the array with the elements of the array.,25.0,18.18,25.0,30.77,22.65,16.71,0.0,33.65
+adds a new element with key key and value to the tree t0 creating a new red-black tree tn. duplicated elements are not allowed.,inserts a new node into the tree.,25.0,13.33,25.0,6.59,4.45,0.0,0.0,64.14
+gets the list of records for all files whose modification time is within the given range.,implement the daterange method of the datepicker interface,25.0,0.0,25.0,12.17,0.0,0.0,0.0,10.96
+is true if and only if filterlist is a list containing only the elements of list that satisfy goal.,includes the given p in the list of expressions.,21.43,0.0,14.29,14.72,0.0,0.0,0.0,19.29
+"succeeds if the item represents a valid circle x,y represents the centrepoint of a circle on an x,y plane r represents the radius of the circle.",computes the circle of the given point.,22.86,12.12,22.86,3.53,2.38,0.0,0.0,51.78
+reads a word from the user then lists all anagrams.,recursively writes the input anagrams to the output.,22.22,0.0,22.22,26.69,0.0,0.0,0.0,59.91
+generates all subsets of the given set (once each).,subsets are the same as the subsets of the set in the set.,36.36,20.0,36.36,35.71,23.44,16.61,0.0,57.25
+"transforms a list, possibly holding lists as elements into a flat list by replacing each list with its elements recursively.",flattens the given list of elements into a single list of elements.,37.5,13.33,37.5,26.95,14.99,10.07,0.0,74.85
+"is true when the two arguments represent the same set. since they are assumed to be ordered representations, they must be identical.",compare two sets.,8.0,0.0,8.0,0.26,0.0,0.0,0.0,33.16
+delete an element from a list by just not including it when it's found.,deletes the element from the list.,28.57,10.53,28.57,18.22,9.84,0.0,0.0,78.35

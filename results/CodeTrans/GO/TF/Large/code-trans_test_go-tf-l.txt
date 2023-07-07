@@ -1,0 +1,20 @@
+Snapshot returns the current snapshot or a new one if there is none .
+compare returns - 1 0 or + 1 for strings with the same length .
+SetHTMLTemplate sets the HTML template used by the engine .
+isASCII returns true if the string contains only ASCII characters .
+SetupAPITestServer creates a new API server .
+max returns the largest integer in two .
+CreateTestAlertRule creates a new test alert rule
+Bind returns a HandlerFunc that binds the given value to the given struct .
+sendBitcoin sends a bitcoin to the given address .
+validateHeader checks if the given header is a valid IP address .
+setLabel sets the label attribute on the form if it doesn t exist .
+permutations returns the number of permutations of the given string .
+generateMaze generates a maze of the given dimensions .
+arrayIntersection returns the number of elements that are present in arr1 and arr2 . If n is greater than arr1 or arr2 is smaller than arr1 it returns the length of arr1 .
+contains returns true if the node is in the slice .
+createNFT creates a new blockchain NFT .
+Alloc returns a slice of bytes that can be used to store numBytes in the underlying buffer .
+errorResponse writes an error to the response writer .
+Last returns the last handler in the chain or nil .
+quartile returns the quartile of the given slice .

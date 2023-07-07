@@ -1,0 +1,20 @@
+returns the list of all versions of a file.
+reverses a list of numbers.
+is the factorial of a number.
+extracts a list of elements from a list of expressions.
+returns the bin tree of a binary tree.
+is true if the testimony is inconsistent.
+computes the quadratic of a given quadratic equation
+is true if the list is empty, and the list is not empty.
+get_addr_stream(a(Hostname, Port), Stream).
+computes the area of a circle.
+deletes a list of elements from the list.
+can be a tree with a key and a value.
+is a valid date range?
+include(_, []). include(_, []). include(_, []). include(_, []). include(_, []). include(_, []). include(_, []).include(_, []).include(_, []).include(_, []).include(_, []).include(_, []).include(_, []).include(_, []).include(_, []).include(_, []).include
+Summarizes a circle with the given coordinates.
+Reads a list of a word and a period and prints the list of anagrams in a single line.
+generate a subset of a set.
+flattens a list of lists.
+is seteq?
+deletes a list of elements from a list.

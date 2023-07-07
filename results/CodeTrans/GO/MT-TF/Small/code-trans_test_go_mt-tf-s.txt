@@ -1,0 +1,20 @@
+Snapshot returns a snapshot of the collection .
+compare returns 0 if a is less than b
+SetHTMLTemplate sets the HTML template for the engine .
+isASCII returns true if the string contains at least unicode . MaxASCII characters .
+SetupAPITestServer creates a new webtest . Server for the API test server .
+max returns the largest of two ints
+CreateTestAlertRule creates a test alert rule
+Bind creates a new bind handler for the given value .
+sendBitcoin sends a bitcoin transaction to the given address .
+validateHeader checks if the given header is a valid client IP .
+setLabel sets the label of the form .
+permutations returns the number of permutations of a string .
+generateMaze generates a maze of the given width and height .
+arrayIntersection returns the number of elements in the array that are not in the array
+contains returns true if the given slice contains the given node .
+createNFT creates a new nft .
+Alloc allocates a number of bytes to the segment .
+errorResponse writes the error response to the response writer .
+Last returns the last handler in the chain or nil if no handler was found .
+quartile returns the quartile of a slice of float64s .

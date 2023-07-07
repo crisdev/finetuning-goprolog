@@ -1,0 +1,20 @@
+Snapshot returns a stable snapshot of the key - value entries .
+compare compares two strings .
+SetHTMLTemplate associate a template with HTML renderer .
+isASCII returns true if the string s is encoded in the ASCII character set .
+SetupAPITestServer creates an APITestServer with some reasonable defaults .
+max returns the larger of two integers
+CreateTestAlertRule creates a mock alert rule .
+Bind is the handler that sets the handler to a new instance of the object passed as the first argument . It is equivalent to calling the method on the router with a pointer receiver .
+sendBitcoin sends XLM to the given address with the given amount via the api . blockcypher api .
+Parse a HTTP2 header value into an IP address string and validate the header is a trusted proxy header .
+setLabel sets the given label on the given form node .
+permutations returns the number of permutations of s .
+generateMaze generates the maze of the given size .
+arrayIntersection returns the count of elements common to arr1 and arr2 .
+contains is a helper function that returns true if x is in s .
+createNFT creates the NFT under the BTC node specified by the given name and symbol .
+Alloc allocs numBytes bytes from the segment . If the allocation fails ErrAllocTooLarge is returned . If the number of bytes in the segment is greater than the total capacity ErrAllocTooLarge is returned . A nil slice and nil error are returned if the allocation exceeds the buffer cap . ErrInvalidBytes is returned if the number of bytes in the segment is not large enough . ErrInvalidBytes may be returned if the size of the segment is less than the buffer cap .
+errorResponse writes an internal server error response to the response writer .
+Last returns the last handler in the chain . ie . the last handler is the main own .
+quartile returns the quartile value of a slice of float64s .

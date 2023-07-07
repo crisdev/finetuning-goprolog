@@ -1,0 +1,21 @@
+REFERENCE,MODEL,ROUGE1,ROUGE2,ROUGEL,BLEU1,BLEU2,BLEU3,BLEU4,COS
+snapshot returns a stable snapshot of the key-value entries.,returns the latest snapshot of the collection.,47.06,26.67,47.06,48.68,32.91,24.13,0.0,57.62
+compare two strings lexicographically.,compare two strings.,85.71,80.0,85.71,77.88,63.59,54.0,0.0,89.16
+associate a template with html renderer.,sethtmltemplate sets the html template to use.,30.77,0.0,15.38,37.5,0.0,0.0,0.0,59.13
+check if a string contains only ascii characters.,returns true if the string is encoded in ascii.,35.29,0.0,35.29,40.0,0.0,0.0,0.0,76.36
+sets up a webtest.server ready for testing all routes registered via httpserver.registerroutes(). optionally customize httpserver configuration by providing apitestserveroption options.,setupapitestserver returns a new http server that serves api test requests.,12.12,0.0,12.12,6.59,0.0,0.0,0.0,61.24
+returns the max between two numbers.,returns the maximum of two integers.,50.0,20.0,50.0,57.14,30.86,0.0,0.0,82.55
+creates a dummy alert definition to be used by the tests.,creates a new alert rule for the given orgid.,40.0,11.11,40.0,40.94,19.3,0.0,0.0,42.45
+bind is a helper function for given interface object and returns a gin middleware.,bind returns a handlerfunc that binds the given interface to the given value.,37.04,16.0,29.63,39.9,23.91,0.0,0.0,69.72
+sends bitcoin to the given address.,sends a bitcoin transaction to the given address.,85.71,50.0,85.71,77.78,62.36,55.03,48.55,93.19
+will parse x-forwarded-for header and return the trusted client ip address.,validates the header of a request.,21.05,0.0,10.53,20.98,0.0,0.0,0.0,48.26
+sets the label property of a new form.,set the label of a form node.,66.67,30.77,66.67,66.19,40.85,0.0,0.0,79.03
+return the number of permutations of a given string.,returns the number of permutations of the given string.,77.78,62.5,77.78,80.0,73.03,64.37,52.54,98.94
+generate random maze.,generate a maze of the given width and height.,33.33,0.0,33.33,30.0,0.0,0.0,0.0,75.03
+compares up to n elements of two arrays and returns the number of elements in common between the two arrays.,computes the number of intersections between two arrays.,42.86,23.08,42.86,20.5,16.44,12.67,0.0,71.03
+contains reports whether s contains x.,returns true if x is in s.,30.77,0.0,15.38,37.5,0.0,0.0,0.0,69.81
+create nft token.,create a new nft for the given block.,36.36,0.0,36.36,33.33,0.0,0.0,0.0,53.69
+"provides a slice of bytes owned by the segment, to reduce extra copying of memory.",alloc returns the requested number of bytes in the segment.,32.0,17.39,32.0,26.34,17.47,0.0,0.0,54.34
+send the error response to the client.,writes a 500 error response to the client.,66.67,61.54,66.67,66.67,64.55,61.98,58.74,73.28
+returns the last handler in the chain. i.e. the last handler is the main one.,returns the last handlerfunc in the handlerschain.,43.48,28.57,43.48,16.73,12.65,8.41,0.0,78.8
+calculate the quartile of a list of numbers. the quartile is the middle value of the set of numbers.,returns the quartile of the given numbers.,38.46,25.0,38.46,14.77,12.89,8.17,0.0,79.48

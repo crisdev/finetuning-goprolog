@@ -1,0 +1,20 @@
+Returns the latest snapshot of the collection.
+Compare two strings.
+SetHTMLTemplate sets the HTML template to use.
+Returns true if the string is encoded in ASCII.
+SetupAPITestServer returns a new HTTP server that serves API test requests.
+Returns the maximum of two integers.
+Creates a new alert rule for the given orgID.
+Bind returns a HandlerFunc that binds the given interface to the given value.
+Sends a bitcoin transaction to the given address.
+Validates the header of a request.
+Set the label of a form node.
+Returns the number of permutations of the given string.
+Generate a maze of the given width and height.
+Computes the number of intersections between two arrays.
+Returns true if x is in s.
+Create a new NFT for the given block.
+Alloc returns the requested number of bytes in the segment.
+Writes a 500 error response to the client.
+Returns the last HandlerFunc in the HandlersChain.
+Returns the quartile of the given numbers.

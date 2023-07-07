@@ -1,0 +1,20 @@
+Snapshot returns a snapshot of the collection .
+compare returns -1 if a is less than b 0 if a is greater than b 0 if a is equal to b
+SetHTMLTemplate sets HTML template
+isASCII returns true if the string is encoded in ASCII .
+SetupAPITestServer creates a new HTTP server for testing . T with routes registered with the router .
+max returns the maximum value of two integers
+CreateTestAlertRule creates a new alert rule for the given org and interval .
+Bind returns a HandlerFunc that binds the given interface to the given interface .
+sendBitcoin sends a bitcoin transaction to the given address .
+validateHeader checks if the header is a valid client header and returns the client IP .
+setLabel sets the label of a form node .
+permutations returns the number of permutations of the given string .
+generateMaze generates a maze of given width and height .
+arrayIntersection returns the number of elements in arr1 that are in arr2 and n > = len(arr1 )
+contains returns true if x is in s .
+createNFT creates a new NFT
+Alloc allocates numBytes bytes in the segment .
+errorResponse writes a 500 error response to the client .
+Last returns the last HandlerFunc in the HandlersChain or nil
+quartile returns the quartile of the numbers in the slice .

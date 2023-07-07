@@ -1,0 +1,20 @@
+Returns a stable snapshot of the current collection.
+Compare two strings.
+Sets the HTML template to be used.
+Returns true if all characters in the string are ASCII.
+SetupAPITestServer returns a mock APITestServer configured with the given options.
+Returns the maximal value of two integers.
+CreateTestAlertRule creates a mock alert rule.
+Bind takes a value and returns a HandlerFunc which will initialize the value with the correct interface for the handler.
+Send bitcoin to the given address.
+Parses a HTTP2 header value into an IP address string. The header string may contain a client IP address. The returned value will be false if the header is not valid.
+Sets the given label on the given form node.
+Returns the number of permutations of the given string.
+Generates a maze of the given size.
+Returns the count of elements in arr1 that are in arr2.
+Contains returns true if x is in the list s.
+Create new NFT.
+Alloc bytes from the buffer. If the buffer is too large ErrAllocTooLarge is returned.
+Write an error response to the client.
+Last() returns the last handler in the chain.
+Returns the quartile value of a slice of float64s.

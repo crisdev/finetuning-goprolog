@@ -1,0 +1,21 @@
+REFERENCE,MODEL,ROUGE1,ROUGE2,ROUGEL,BLEU1,BLEU2,BLEU3,BLEU4,COS
+snapshot returns a stable snapshot of the key-value entries.,snapshot returns a snapshot of the current iterator state.,63.16,47.06,63.16,70.0,55.78,42.69,0.0,68.72
+compare two strings lexicographically.,compare returns an integer indicating whether a is less than b or 0 if a is less than b.,8.7,0.0,8.7,10.0,0.0,0.0,0.0,48.09
+associate a template with html renderer.,sethtmltemplate sets the html renderer for the engine.,28.57,16.67,28.57,33.33,20.41,0.0,0.0,65.72
+check if a string contains only ascii characters.,isascii returns true if the string is a valid unicode string that is less than the maximum ascii characters.,37.04,8.0,37.04,30.0,17.77,12.06,0.0,56.35
+sets up a webtest.server ready for testing all routes registered via httpserver.registerroutes(). optionally customize httpserver configuration by providing apitestserveroption options.,setupapitestserver returns a webtest.server that serves apis and tests.,18.75,13.33,18.75,10.98,8.89,7.47,5.91,62.6
+returns the max between two numbers.,returns the maximum of two integer integers,46.15,18.18,46.15,42.86,26.73,0.0,0.0,78.44
+creates a dummy alert definition to be used by the tests.,createtestalertrule creates a test alert rule for the given testing.,38.1,10.53,38.1,41.5,19.47,0.0,0.0,64.02
+bind is a helper function for given interface object and returns a gin middleware.,bind a value to a struct.,30.0,0.0,30.0,18.22,0.0,0.0,0.0,32.76
+sends bitcoin to the given address.,sendbitcoin is used to send a bitcoin address to a blockcypher server.,33.33,0.0,22.22,30.77,0.0,0.0,0.0,57.36
+will parse x-forwarded-for header and return the trusted client ip address.,returns the client ip from the header if it s a trusted proxy or a non - proxy ip from the header if it s a proxy ip or a ip from the header if it s a trusted proxy ip or a ip from the header if it s a proxy ip or a ip from the header if it s a trusted proxy ip or a ip from the header if it s a proxy ip or a ip from the header if it s a trusted proxy ip or a ip from the header if it s a proxy ip or a ip from the ip address of the proxy,9.6,3.25,8.0,5.31,3.08,0.0,0.0,65.97
+sets the label property of a new form.,setlabel sets the label of the form node.,62.5,28.57,62.5,66.67,40.82,28.77,0.0,77.43
+return the number of permutations of a given string.,returns the number of possible permutations of the string.,66.67,37.5,66.67,70.0,55.78,33.88,0.0,94.5
+generate random maze.,generate a maze of the given width and height.,33.33,0.0,33.33,30.0,0.0,0.0,0.0,75.03
+compares up to n elements of two arrays and returns the number of elements in common between the two arrays.,arrayintersection returns the number of intersections between arr1 and arr2.,40.0,21.43,33.33,25.64,17.6,14.05,10.87,51.25
+contains reports whether s contains x.,contains returns true if the given node is in the list of nodes.,10.53,0.0,10.53,14.29,0.0,0.0,0.0,54.43
+create nft token.,createnft creates a nft structure for the given name symbol and supply number.,12.5,0.0,12.5,14.29,0.0,0.0,0.0,56.13
+"provides a slice of bytes owned by the segment, to reduce extra copying of memory.",alloc returns the buffer size of the segment.,26.09,9.52,26.09,18.27,9.69,0.0,0.0,52.35
+send the error response to the client.,errorresponse writes a 500 error to the response writer and writes it to the response writer.,43.48,9.52,34.78,35.29,14.85,0.0,0.0,55.92
+returns the last handler in the chain. i.e. the last handler is the main one.,last returns the last handlerfunc in the chain.,58.33,36.36,50.0,26.18,21.96,18.26,13.15,89.94
+calculate the quartile of a list of numbers. the quartile is the middle value of the set of numbers.,quartile returns the number of the given numbers in the slice of numbers.,50.0,13.33,37.5,38.99,23.36,14.02,0.0,74.02

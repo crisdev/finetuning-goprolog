@@ -1,0 +1,20 @@
+returns the list of valid file versions for a file.
+reverses an array.
+returns the factorial of a given number.
+convert a list of expressions to a list of lists.
+returns the binomial tree of the given number of elements.
+is true if X is inconsistent with evidence of W.
+evalquad.
+convert a list to a heap.
+get_addr_stream(a(Hostname, Port), Stream) - > a(Hostname, Port), a(Hostname, Port), a(Hostname, Port), a(Hostname, Port), a(Hostname, Port), a(Hostname, Port), a(Hostname, Port), a(Hostname, Port), a(Hostname, Port), a(Hostname, Port), a(Hostname, Port), a(Hostname, Port), a(Hostname, Port), a(Hostname, Port), a(Hostname, Port), a(Hostname, Port), a
+Calculates the area of a circle.
+dels the element with the given index from the Order.
+inserts a new node into the tree.
+returns a list of dates in the given range.
+returns true if the elements of the list include the element of the list.
+circle(X, Y, R)
+list anagrams.
+returns a subset of a given set.
+flattens a list into a single list.
+is true if Set1 is an ordered set.
+deletes all elements of a list.

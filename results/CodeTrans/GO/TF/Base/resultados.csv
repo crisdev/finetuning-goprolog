@@ -1,0 +1,21 @@
+REFERENCE,MODEL,ROUGE1,ROUGE2,ROUGEL,BLEU1,BLEU2,BLEU3,BLEU4,COS
+snapshot returns a stable snapshot of the key-value entries.,snapshot returns a snapshot of the latest snapshot . this is equivalent to calling snapshotlocked with the mutex locked .,42.86,30.77,42.86,35.0,27.14,20.15,0.0,68.64
+compare two strings lexicographically.,compare returns an integer indicating whether a is less than b or 1 if a is greater than b .,8.7,0.0,8.7,10.0,0.0,0.0,0.0,45.16
+associate a template with html renderer.,sethtmltemplate sets the template to be rendered,15.38,0.0,15.38,14.29,0.0,0.0,0.0,58.76
+check if a string contains only ascii characters.,isascii returns true if the string contains only ascii characters .,66.67,50.0,66.67,63.64,56.41,52.1,47.99,66.14
+sets up a webtest.server ready for testing all routes registered via httpserver.registerroutes(). optionally customize httpserver configuration by providing apitestserveroption options.,setupapitestserver creates a new apitestserver .,7.41,0.0,7.41,0.85,0.0,0.0,0.0,54.53
+returns the max between two numbers.,max returns the maximal value of two integers,57.14,16.67,42.86,50.0,26.73,0.0,0.0,78.06
+creates a dummy alert definition to be used by the tests.,createtestalertrule creates a test alert rule,35.29,13.33,35.29,18.39,11.63,0.0,0.0,55.15
+bind is a helper function for given interface object and returns a gin middleware.,bind returns a new bind handler for the given value . bind can be a pointer to a struct .,37.5,6.67,31.25,35.0,13.57,0.0,0.0,52.4
+sends bitcoin to the given address.,sendbitcoin sends a bitcoin transaction to the given address .,80.0,46.15,80.0,70.0,55.78,48.86,42.73,85.45
+will parse x-forwarded-for header and return the trusted client ip address.,validateheader returns the client ip from the given header if it is a valid rfc 3986 one or the empty string if it is not a trusted proxy .,24.39,5.13,14.63,20.69,8.6,0.0,0.0,65.79
+sets the label property of a new form.,setlabel sets the given label as the default value of the form node .,47.62,10.53,47.62,42.86,18.16,0.0,0.0,74.31
+return the number of permutations of a given string.,permutations returns the number of permutations of s .,58.82,53.33,58.82,59.66,51.66,46.78,41.8,75.19
+generate random maze.,generatemaze generates a maze of the given width and height .,15.38,0.0,15.38,18.18,0.0,0.0,0.0,72.01
+compares up to n elements of two arrays and returns the number of elements in common between the two arrays.,arrayintersection returns the number of elements in arr1 that are in arr2 with length n .,40.0,30.3,34.29,36.58,29.87,26.52,23.69,54.35
+contains reports whether s contains x.,contains returns true if the slice contains the node x .,37.5,0.0,37.5,36.36,19.07,0.0,0.0,55.1
+create nft token.,createnft creates a new block transaction for the given name and symbol .,0.0,0.0,0.0,7.69,0.0,0.0,0.0,54.28
+"provides a slice of bytes owned by the segment, to reduce extra copying of memory.",alloc allocates numbytes bytes from the segment .,27.27,10.0,27.27,16.23,8.68,0.0,0.0,62.16
+send the error response to the client.,errorresponse writes the error to the response writer with http . statusinternalservererror .,55.56,25.0,44.44,46.15,27.74,0.0,0.0,53.47
+returns the last handler in the chain. i.e. the last handler is the main one.,last returns the last handler in the chain,66.67,54.55,58.33,22.31,20.66,19.95,19.4,87.51
+calculate the quartile of a list of numbers. the quartile is the middle value of the set of numbers.,quartile returns the quartile value of the given slice of float64s .,46.67,21.43,46.67,31.49,20.14,12.42,0.0,54.32

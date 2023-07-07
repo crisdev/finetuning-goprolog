@@ -1,0 +1,21 @@
+REFERENCE,MODEL,ROUGE1,ROUGE2,ROUGEL,BLEU1,BLEU2,BLEU3,BLEU4,COS
+gets the list of records for all files matching the specified base name.,returns the list of valid file versions for a file.,34.78,19.05,34.78,34.6,22.95,16.46,0.0,51.5
+reverses a list of any length.,reverses an array.,22.22,0.0,22.22,23.62,0.0,0.0,0.0,68.17
+returns the factorial of a given number.,returns the factorial of a given number.,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+transforms the body of a clause into a list of goals.,convert a list of expressions to a list of lists.,47.62,21.05,38.1,49.81,30.16,20.97,0.0,44.31
+succeeds if t is a valid binary tree with integer keys.,returns the binomial tree of the given number of elements.,9.52,0.0,9.52,16.6,0.0,0.0,0.0,35.36
+a set of witnesses have inconsistent testimony if two pieces of testimony belonging to two different witnesses are inconsistent.,is true if x is inconsistent with evidence of w.,20.69,0.0,13.79,16.04,0.0,0.0,0.0,43.21
+"valuates the polynomial given the a,b,c,x values.",evalquad.,0.0,0.0,0.0,0.12,0.0,0.0,0.0,13.3
+takes a list of key-datum pairs (such as keysort could be used to sort) and forms them into a heap.,convert a list to a heap.,37.04,16.0,37.04,8.72,6.66,4.48,0.0,65.78
+obtains a socket connection from this node.,"get_addr_stream(a(hostname, port), stream) - > a(hostname, port), a(hostname, port), a(hostname, port), a(hostname, port), a(hostname, port), a(hostname, port), a(hostname, port), a(hostname, port), a(hostname, port), a(hostname, port), a(hostname, port), a(hostname, port), a(hostname, port), a(hostname, port), a(hostname, port), a(hostname, port), a",3.17,0.0,3.17,0.77,0.0,0.0,0.0,30.53
+succeeds if a is the area of shape s.,calculates the area of a circle.,53.33,30.77,40.0,46.53,31.79,23.61,0.0,49.18
+is true when rest contains the elements of set1 except for set1.,dels the element with the given index from the order.,9.09,0.0,9.09,15.16,0.0,0.0,0.0,12.88
+adds a new element with key key and value to the tree t0 creating a new red-black tree tn. duplicated elements are not allowed.,inserts a new node into the tree.,25.0,13.33,25.0,6.59,4.45,0.0,0.0,64.14
+gets the list of records for all files whose modification time is within the given range.,returns a list of dates in the given range.,40.0,26.09,40.0,29.8,25.64,20.14,15.51,37.32
+is true if and only if filterlist is a list containing only the elements of list that satisfy goal.,returns true if the elements of the list include the element of the list.,42.42,19.35,36.36,38.22,24.22,14.79,0.0,62.67
+"succeeds if the item represents a valid circle x,y represents the centrepoint of a circle on an x,y plane r represents the radius of the circle.","circle(x, y, r)",25.0,13.33,25.0,4.23,2.61,1.86,0.0,69.96
+reads a word from the user then lists all anagrams.,list anagrams.,16.67,0.0,16.67,4.63,4.01,0.0,0.0,79.03
+generates all subsets of the given set (once each).,returns a subset of a given set.,37.5,14.29,37.5,30.33,16.21,0.0,0.0,70.4
+"transforms a list, possibly holding lists as elements into a flat list by replacing each list with its elements recursively.",flattens a list into a single list.,37.04,16.0,37.04,13.03,8.04,0.0,0.0,75.22
+"is true when the two arguments represent the same set. since they are assumed to be ordered representations, they must be identical.",is true if set1 is an ordered set.,26.67,7.14,20.0,9.39,6.3,0.0,0.0,61.14
+delete an element from a list by just not including it when it's found.,deletes all elements of a list.,19.05,10.53,19.05,13.67,8.52,0.0,0.0,76.5

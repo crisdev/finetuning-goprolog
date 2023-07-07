@@ -1,0 +1,20 @@
+Snapshot returns a snapshot of the collection.
+Compare two strings.
+SetHTMLTemplate sets the HTML template used by the engine.
+Returns true if the string contains only ASCII characters.
+SetupAPITestServer creates a new API server.
+Returns the largest integer in the two provided integers.
+CreateTestAlertRule creates a new test alert rule.
+Binds the given struct to the request.
+Sends a bitcoin transaction to the given address.
+Returns the client IP from the given header.
+setLabel sets the label attribute of the form.
+Returns the number of permutations of the given string.
+Generate a maze of the given dimensions.
+Returns the number of elements in arr1 that are present in arr2.
+Contains returns true if the given node is in the list.
+Create a new blockchain template.
+Alloc returns a slice of bytes that can be used to read numBytes from the buffer.
+Writes an error response to the client.
+Returns the last handler in the chain.
+quartile returns the quartile of the given numbers.

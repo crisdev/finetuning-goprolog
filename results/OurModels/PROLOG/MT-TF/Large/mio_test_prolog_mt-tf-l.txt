@@ -1,0 +1,20 @@
+returns the list of file versions of a file.
+reverses the order of the elements in the array.
+factorial of a number.
+convert a list of expressions to a list of expressions.
+returns a binary tree representing the K-th binary tree.
+returns true if W is inconsistent with W.
+evaluates a quadratic equation of the form X^A + B^X + C.
+list_to_heap(List, 0, t, Heap) :- list_to_heap(List, 0, t, Heap) :- list_to_heap(List, 0, t, Heap) :- list_to_heap(List, 0, t, Heap) :- list_to_heap(List, 0, t, Heap) :- list_to_heap(List, 0, t, Heap).
+get_addr_stream returns the address stream of a hostname.
+returns the area of a circle.
+removes elements from an ordered list.
+inserts a new node into the tree.
+returns a valid file date range.
+includes all elements of a list.
+returns the coordinates of a circle of radius R.
+list all the analog words in the alphabet
+returns true if the set subset is valid.
+flattens a list.
+is true if Set1 == Set2.
+deletes the list of elements from the list.
